@@ -14,3 +14,4 @@ I'm a High school student learning programming && computer science.
 - Game design and dev with Godot
 - Electronics design and repair
 - Hardware design
+- Local Ai programs, Look at that profile pic!
