@@ -4,8 +4,8 @@ I'm a High school student learning programming && computer science.
 
 ### Current Projects:
 
-- A smart, phone controlled system for controlling effects of leds on a christmas tree using Esp32.
-- A semi-open world building and towning game using Godot 4
+- A smart automated greenhouse control/monitoring system using an ESP32, controllable by screen and phone!
+- My website, [weible.dev](https://weible.dev)
 
 ### Intrests:
 
