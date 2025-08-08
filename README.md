@@ -15,3 +15,6 @@ I'm a High school student learning programming && computer science.
 - Electronics design and repair
 - Hardware design
 - Local Ai programs, Look at that profile pic!
+
+### Ramblings
+Did you know that contributions in feature branches don't update your contrib-graph? 
