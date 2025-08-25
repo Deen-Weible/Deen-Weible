@@ -6,6 +6,7 @@ I'm a High school student learning programming && computer science.
 
 - A smart automated greenhouse control/monitoring system using an ESP32, controllable by screen and phone!
 - My website, [weible.dev](https://weible.dev)
+- Tosa WebDev cert, **We**'ve convinced them to let me have a couple free tries in return for feedback.
 
 ### Intrests:
 
