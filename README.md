@@ -17,4 +17,5 @@ I'm a High school student learning programming && computer science.
 - Local Ai programs, Look at that profile pic!
 
 ### Ramblings
-Did you know that contributions in feature branches don't update your contrib-graph? 
+- Did you know that contributions in feature branches don't update your contrib-graph? 
+- I'm starting to use a vcs from this century (literally) - [Jujutsu](https://github.com/jj-vcs/jj), its fun! Also, jj makes my commit history much brighter
