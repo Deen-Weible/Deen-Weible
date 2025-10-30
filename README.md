@@ -14,6 +14,7 @@ I'm a High school student learning programming && computer science.
 - Linux and open source software
 - Game design and dev with Godot
 - Electronics design and repair
+- Web and UX design, specifically utilitarian things
 - Hardware design
 - Local Ai programs, Look at that profile pic!
 
